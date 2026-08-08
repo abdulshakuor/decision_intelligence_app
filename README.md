@@ -12,6 +12,7 @@
 ## 📸 لقطات من التطبيق (Screenshots)
 
 <p align="center">
+  <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٨-٢٣-٢١-٤٢-٤٢١_com.example.decision_intelligence_app.jpg" width="200" />
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٢٨-٣٦-٧٨١_com.example.decision_intelligence_app.jpg" width="200" />
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٢٨-٥٨-٧٧٨_com.example.decision_intelligence_app.jpg" width="200" />
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٢٩-٠٤-٤٩٣_com.example.decision_intelligence_app.jpg" width="200" />
@@ -41,7 +42,7 @@
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٣٥-٠٧-١٤٧_com.example.decision_intelligence_app.jpg" width="200" />
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٣٥-٣٤-١٩٦_com.example.decision_intelligence_app.jpg" width="200" />
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٣-٠١-٣٥-٤٣-٣٣٧_com.example.decision_intelligence_app.jpg" width="200" />
-  <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٨-٢٣-٢١-٤٢-٤٢١_com.example.decision_intelligence_app.jpg" width="200" />
+  
   <img src="screenshots/Screenshot_٢٠٢٦-٠٨-٠٨-٢٣-٢١-٤٩-٢٣٤_com.example.decision_intelligence_app.jpg" width="200" />
 </p>
 
